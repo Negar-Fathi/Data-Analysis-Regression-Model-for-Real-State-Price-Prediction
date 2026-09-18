@@ -1,4 +1,4 @@
-# Data-Analysis-Regression-Model-for-Real-State-Price-Prediction
+# Data-Analysis-Regression-Model
 First Machine Learning Assignment
 
 1- In this task you will carry out data analysis and build a regression a model for real state price prediction. The dataset for this task is available at https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction.
